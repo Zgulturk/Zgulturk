@@ -6,76 +6,85 @@
 
 ##  Hakkımda
 
-Merhaba! Ben Zülfikar, yapay zeka ve backend geliştirme alanlarına odaklanan bir yazılım mühendisliği öğrencisiyim.  
-- 🎓 Yazılım Mühendisliği, 3. sınıf öğrencisi  
-- 🤖 Yapay zeka ve backend alanlarında projeler geliştiriyorum  
-- 🛠 PHP, Laravel, Python ve MySQL kullanarak güçlü ve ölçeklenebilir uygulamalar inşa ediyorum  
--  Sürekli öğrenen, yeniliklere açık bir geliştiriciyim  
--  Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E-posta](mailto:huseyin.glm.22@gmail.com)
+Merhaba! Ben Zülfikar, yapay zeka ve backend teknolojileriyle tutkulu projelere hayat veren bir yazılım mühendisliği öğrencisiyim.  
+- 🎓 Yazılım Mühendisliği, 3. sınıf  
+-  Yapay zeka & backend alanında aktif projeler geliştiriyorum  
+-  PHP, Laravel, Python, MySQL ile modern ve ölçeklenebilir çözümler üretiyorum  
+-  Yeniliklere çok açık, sürekli öğrenen bir geliştiriciyim  
+-  Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E‑posta](mailto:huseyin.glm.22@gmail.com)
 
 ---
 
 ##  Teknolojiler & Araçlar
 
-|  Kullanılan Teknolojiler |
-|---------------------------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| ![Laravel](https://img.shields.io/badge/Laravel‑E93329?style=for-the-badge&logo=laravel&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python‑3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![MySQL](https://img.shields.io/badge/MySQL‑4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript‑F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ![HTML5](https://img.shields.io/badge/HTML5‑E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3‑1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| ![Git](https://img.shields.io/badge/Git‑F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![GitHub](https://img.shields.io/badge/GitHub‑181717?style=for-the-badge&logo=github&logoColor=white) |
+<!-- Icon Grid: Kullanımı kolay, responsive ve her ekranda güzel görünür. -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP"><br>PHP</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" alt="Laravel"><br>Laravel</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"><br>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"><br>MySQL</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"><br>JavaScript</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"><br>HTML5</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"><br>CSS3</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"><br>Git</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"><br>GitHub</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"><br>Docker</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"><br>Linux</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio_code/visualstudio_code-original.svg" width="48" alt="VSCode"><br>VS Code</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ##  Öne Çıkan Projeler
 
 ###  WebTokenProject
-- **Açıklama**: Java, Python ve HTML ile kimlik doğrulama ve token yönetim altyapısı geliştirildi.
+- **Açıklama**: Java, Python ve HTML kullanan güçlü bir kimlik doğrulama altyapısı.
 - **Teknolojiler**: Java, Python, HTML
-- **Öne Çıkanlar**:
-  - API tabanlı güvenli erişim mekanizması
-  - Token oluşturma & doğrulama işlevleri
+- **Öne Çıkan Özellikler**:
+  - API bazlı token oluşturma & doğrulama sistemi
 
 ###  Doviz‑Projesi
-- **Açıklama**: Python kullanılarak döviz kurlarını gerçek zamanlı gösteren uygulama.
+- **Açıklama**: Python ile geliştirilmiş, gerçek zamanlı döviz kurları uygulaması.
 - **Teknolojiler**: Python
-- **Öne Çıkanlar**:
-  - Harici API entegrasyonu
-  - Kullanıcı dostu UI ve grafiksel gösterim desteği
+- **Öne Çıkan Özellikler**:
+  - Harici API entegrasyonu ve kullanıcı dostu arayüz
 
 ###  E‑Ticaret (Flask)
-- **Açıklama**: Python + Flask tabanlı, sepet ve yönetim paneline sahip e‑ticaret platformu.
+- **Açıklama**: Python ve Flask tabanlı, sepet ve yönetim paneli içerikli e‑ticaret platformu.
 - **Teknolojiler**: Python, Flask
-- **Öne Çıkanlar**:
-  - CRUD operasyonları ve dinamik sepet yönetimi
-  - MVC mimarisi yaklaşımıyla modüler yapı
+- **Öne Çıkan Özellikler**:
+  - Dinamik sepet sistemi ve MVC mimarisi
 
 ###  Firebase‑Projesi
-- **Açıklama**: HTML + Firebase kullanarak dinamik veritabanı işlemleri gerçekleştiren uygulama.
+- **Açıklama**: HTML ve Firebase ile gerçek zamanlı veritabanı işlemlerine odaklanan uygulama.
 - **Teknolojiler**: HTML, Firebase
-- **Öne Çıkanlar**:
-  - Gerçek zamanlı veri akışı ve kullanıcı deneyimi
-  - Firebase Authentication ve Firestore entegrasyonu
+- **Öne Çıkan Özellikler**:
+  - Firebase Authentication ve Firestore ile gerçek zamanlı güncellemeler
 
 ###  menu_project
-- **Açıklama**: Laravel Blade ile geliştirilmiş menü gösterim sistemi.
-- **Teknolojiler**: PHP, Laravel, Blade
-- **Öne Çıkanlar**:
-  - Dinamik menü yönetimi ve şablonlar
-  - Backend üzerinden içerik kontrolü
+- **Açıklama**: Laravel Blade kullanarak dinamik menü sistemi.
+- **Teknolojiler**: PHP, Laravel
+- **Öne Çıkan Özellikler**:
+  - Backend destekli içerik kontrolü ve şablon tabanlı yapı
 
 ---
 
-##  Neden Bu Yapı Cazip?
-- **Temiz ve okunabilir tasarım**: Tek sayfa düzeni ile sade gezinim.
-- **Karanlık / aydınlık tema uyumu**: Arka plan ve metin kontrastlarıyla görsel denge.
-- **Micro animasyonlar ve hover efektleri**: Hareketli ögeler kullanıcı etkileşimini artırır .
-- **Teknoloji simgeleri**: Hızlı algılanabilirlik için ikon bazlı yetenek gösterimi.
-- **Case study kart formatı**: Her projede ne solve edildiği vurgulanır.
+##  Portföyde Eklenebilir Dinamik Fonksiyonlar
+
+Burada, portföyünü daha interaktif hale getirmek için çeşitli fikirler bulabilirsin:
+
+- **Animasyonlu Hero & Arka Plan (particles.js, CSS gradientes, 3D efektler)** — kullanıcı dikkatini çeker :contentReference[oaicite:1]{index=1}  
+- **Light/Dark Mod Toggle ve Theme Hafızalama (JavaScript & CSS)** — kullanıcı tercihini hatırlar :contentReference[oaicite:2]{index=2}  
+- **Projelerin Kaygan Görsel Kartlar & Hover Efektleri** — bilgilendirici, interaktif bir görsel deneyim sunar :contentReference[oaicite:3]{index=3}  
+- **Filtreleme & Lightbox Galeri (JavaScript)** — ziyaretçiler projeleri filtreleyebilir, detayları lightbox ile görebilir :contentReference[oaicite:4]{index=4}
 
 ---
 
