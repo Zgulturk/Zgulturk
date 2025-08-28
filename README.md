@@ -9,11 +9,11 @@
 
 Merhaba! Ben **Zülfikar**, yapay zeka ve backend teknolojileriyle projeler geliştiren bir yazılım mühendisi adayıyım.
 
-- 🎓 3. Sınıf Yazılım Mühendisliği öğrencisiyim  
+- 🎓 4. Sınıf Yazılım Mühendisliği öğrencisiyim  
 - 🔭 Yapay Zeka, Python, Laravel ve REST API projeleri geliştiriyorum  
 - 🧠 Sürekli öğrenmeye aç bir geliştiriciyim  
 - 💼 Freelancer olarak backend destekli sistemler geliştiriyorum  
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E‑posta](mailto:huseyin.glm.22@gmail.com)
+- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/z%C3%BClfikar-g%C3%BClt%C3%BCrk-b162aa2a2/) | [E‑posta](mailto:zulfikargulturk2727@gmail.com)
 
 ---
 
@@ -67,20 +67,12 @@ Merhaba! Ben **Zülfikar**, yapay zeka ve backend teknolojileriyle projeler geli
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulfikargultrk&show_icons=true&theme=radical&hide_border=true" alt="Zülfikar Gültürk GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikargultrk&layout=compact&theme=radical&hide_border=true" alt="Zülfikar Gültürk Top Languages" />
-</p>
-
 
 ## 📬 İletişim
 
 <p align="center">
-  <a href="mailto:huseyin.glm.22@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/huseyingulme"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:zulfikargulturk2727@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/z%C3%BClfikar-g%C3%BClt%C3%BCrk-b162aa2a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
