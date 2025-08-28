@@ -1,95 +1,105 @@
-#  Merhaba, ben Zülfikar GÜLTÜRK
-
-**Yapay Zeka & Backend Geliştiricisi**
-
----
-
-##  Hakkımda
-
-Merhaba! Ben Zülfikar, yapay zeka ve backend teknolojileriyle tutkulu projelere hayat veren bir yazılım mühendisliği öğrencisiyim.  
-- 🎓 Yazılım Mühendisliği, 3. sınıf  
--  Yapay zeka & backend alanında aktif projeler geliştiriyorum  
--  PHP, Laravel, Python, MySQL ile modern ve ölçeklenebilir çözümler üretiyorum  
--  Yeniliklere çok açık, sürekli öğrenen bir geliştiriciyim  
--  Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E‑posta](mailto:huseyin.glm.22@gmail.com)
+<!-- PROFİL KAPAĞI -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Merhaba%2C+ben+Z%C3%BClfikar+G%C3%9CLT%C3%9CRK!;Yapay+Zeka+%26+Backend+Geliştiricisiyim;Laravel+%7C+Python+%7C+MySQL+%7C+AI+Projeleri" alt="Typing SVG" />
+</p>
 
 ---
 
-##  Teknolojiler & Araçlar
+## 🙋‍♂️ Hakkımda
 
-<!-- Icon Grid: Kullanımı kolay, responsive ve her ekranda güzel görünür. -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP"><br>PHP</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" alt="Laravel"><br>Laravel</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"><br>Python</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"><br>MySQL</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"><br>JavaScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"><br>HTML5</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"><br>CSS3</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"><br>Git</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"><br>GitHub</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"><br>Docker</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"><br>Linux</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio_code/visualstudio_code-original.svg" width="48" alt="VSCode"><br>VS Code</td>
-    </tr>
-  </table>
-</div>
+Merhaba! Ben **Zülfikar**, yapay zeka ve backend teknolojileriyle projeler geliştiren bir yazılım mühendisi adayıyım.
+
+- 🎓 3. Sınıf Yazılım Mühendisliği öğrencisiyim  
+- 🔭 Yapay Zeka, Python, Laravel ve REST API projeleri geliştiriyorum  
+- 🧠 Sürekli öğrenmeye aç bir geliştiriciyim  
+- 💼 Freelancer olarak backend destekli sistemler geliştiriyorum  
+- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E‑posta](mailto:huseyin.glm.22@gmail.com)
 
 ---
 
-##  Öne Çıkan Projeler
+## 🚀 Kullandığım Teknolojiler
 
-###  WebTokenProject
-- **Açıklama**: Java, Python ve HTML kullanan güçlü bir kimlik doğrulama altyapısı.
-- **Teknolojiler**: Java, Python, HTML
-- **Öne Çıkan Özellikler**:
-  - API bazlı token oluşturma & doğrulama sistemi
-
-###  Doviz‑Projesi
-- **Açıklama**: Python ile geliştirilmiş, gerçek zamanlı döviz kurları uygulaması.
-- **Teknolojiler**: Python
-- **Öne Çıkan Özellikler**:
-  - Harici API entegrasyonu ve kullanıcı dostu arayüz
-
-###  E‑Ticaret (Flask)
-- **Açıklama**: Python ve Flask tabanlı, sepet ve yönetim paneli içerikli e‑ticaret platformu.
-- **Teknolojiler**: Python, Flask
-- **Öne Çıkan Özellikler**:
-  - Dinamik sepet sistemi ve MVC mimarisi
-
-###  Firebase‑Projesi
-- **Açıklama**: HTML ve Firebase ile gerçek zamanlı veritabanı işlemlerine odaklanan uygulama.
-- **Teknolojiler**: HTML, Firebase
-- **Öne Çıkan Özellikler**:
-  - Firebase Authentication ve Firestore ile gerçek zamanlı güncellemeler
-
-###  menu_project
-- **Açıklama**: Laravel Blade kullanarak dinamik menü sistemi.
-- **Teknolojiler**: PHP, Laravel
-- **Öne Çıkan Özellikler**:
-  - Backend destekli içerik kontrolü ve şablon tabanlı yapı
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,js,html,css,git,github,docker,linux,vscode&perline=6" />
+</p>
 
 ---
 
-##  Portföyde Eklenebilir Dinamik Fonksiyonlar
+## 🌟 Öne Çıkan Projeler
 
-Burada, portföyünü daha interaktif hale getirmek için çeşitli fikirler bulabilirsin:
-
-- **Animasyonlu Hero & Arka Plan (particles.js, CSS gradientes, 3D efektler)** — kullanıcı dikkatini çeker :contentReference[oaicite:1]{index=1}  
-- **Light/Dark Mod Toggle ve Theme Hafızalama (JavaScript & CSS)** — kullanıcı tercihini hatırlar :contentReference[oaicite:2]{index=2}  
-- **Projelerin Kaygan Görsel Kartlar & Hover Efektleri** — bilgilendirici, interaktif bir görsel deneyim sunar :contentReference[oaicite:3]{index=3}  
-- **Filtreleme & Lightbox Galeri (JavaScript)** — ziyaretçiler projeleri filtreleyebilir, detayları lightbox ile görebilir :contentReference[oaicite:4]{index=4}
+### 🔐 WebTokenProject
+🧾 Java & Python ile geliştirilen güçlü kimlik doğrulama altyapısı  
+**Teknolojiler**: `Java`, `Python`, `HTML`  
+**Özellikler**:
+- API tabanlı token üretme ve doğrulama sistemi
 
 ---
 
-##  İletişim & Bağlantılar
+### 💱 Döviz Projesi
+📉 Gerçek zamanlı döviz takibi uygulaması  
+**Teknolojiler**: `Python`, `Requests`, `Tkinter`  
+**Özellikler**:
+- API ile anlık veri çekimi, şık arayüz
 
--  [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/)  
--  [GitHub](https://github.com/huseyingulme)  
--  [E‑posta](mailto:huseyin.glm.22@gmail.com)
+---
+
+### 🛒 E‑Ticaret (Flask)
+🛍️ Python + Flask ile yazılmış MVC tabanlı e-ticaret platformu  
+**Teknolojiler**: `Python`, `Flask`, `Jinja`, `Bootstrap`  
+**Özellikler**:
+- Admin paneli, kullanıcı yönetimi, sepet işlevleri
+
+---
+
+### 🔥 Firebase Uygulaması
+☁️ Gerçek zamanlı veritabanı işlemleri  
+**Teknolojiler**: `Firebase`, `HTML`, `JavaScript`  
+**Özellikler**:
+- Firebase Authentication & Firestore ile senkron veri işlemleri
+
+---
+
+### 📂 menu_project (Laravel)
+📋 Dinamik menü sistemli Laravel uygulaması  
+**Teknolojiler**: `PHP`, `Laravel`, `Blade`  
+**Özellikler**:
+- Tamamen backend üzerinden kontrol edilebilen içerik yönetimi
+
+---
+
+## 🧩 Portföyü Geliştirmek İçin Fonksiyonel Özellikler
+
+| Özellik | Açıklama |
+|--------|----------|
+| 🎨 **Animasyonlu Hero** | `particles.js`, `CSS Waves` veya `three.js` ile giriş ekranı |
+| 🌙 **Dark / Light Mod Toggle** | JavaScript ile tema geçişi ve localStorage ile hafıza |
+| 🖼️ **Hover Kartlar** | Proje kartları üzerine gelince bilgi kutuları (CSS transform + shadow) |
+| 🔍 **Filtreleme & Lightbox Galeri** | Proje etiketine göre filtreleme & Lightbox ile ön izleme |
+| ⚙️ **Scroll Animasyonları (AOS.js)** | Sayfa aşağı inerken elementlerin akıcı görünmesi |
+| 🔗 **Sosyal Butonlar** | Şık ikonlarla LinkedIn, GitHub, mail yönlendirmeleri |
+| 📈 **GitHub Stats** | Anlık GitHub katkı grafikleri ve istatistikleri |
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulme&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+## 📬 İletişim
+
+<p align="center">
+  <a href="mailto:huseyin.glm.22@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/huseyingulme"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
