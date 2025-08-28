@@ -67,28 +67,13 @@ Merhaba! Ben **Zülfikar**, yapay zeka ve backend teknolojileriyle projeler geli
 
 ---
 
-## 🧩 Portföyü Geliştirmek İçin Fonksiyonel Özellikler
-
-| Özellik | Açıklama |
-|--------|----------|
-| 🎨 **Animasyonlu Hero** | `particles.js`, `CSS Waves` veya `three.js` ile giriş ekranı |
-| 🌙 **Dark / Light Mod Toggle** | JavaScript ile tema geçişi ve localStorage ile hafıza |
-| 🖼️ **Hover Kartlar** | Proje kartları üzerine gelince bilgi kutuları (CSS transform + shadow) |
-| 🔍 **Filtreleme & Lightbox Galeri** | Proje etiketine göre filtreleme & Lightbox ile ön izleme |
-| ⚙️ **Scroll Animasyonları (AOS.js)** | Sayfa aşağı inerken elementlerin akıcı görünmesi |
-| 🔗 **Sosyal Butonlar** | Şık ikonlarla LinkedIn, GitHub, mail yönlendirmeleri |
-| 📈 **GitHub Stats** | Anlık GitHub katkı grafikleri ve istatistikleri |
-
----
-
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulme&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zulfikargultrk&show_icons=true&theme=radical&hide_border=true" alt="Zülfikar Gültürk GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikargultrk&layout=compact&theme=radical&hide_border=true" alt="Zülfikar Gültürk Top Languages" />
 </p>
 
----
 
 ## 📬 İletişim
 
